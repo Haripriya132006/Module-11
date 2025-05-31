@@ -1,4 +1,4 @@
-#📘 Module 11 – Hacker Rank Challenges !
+# 📘 Module 11 – Hacker Rank Challenges !
 
 ## 🎯 Aim
 To practice and understand basic C programming concepts by solving real-world problems.
